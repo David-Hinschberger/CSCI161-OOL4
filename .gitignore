@@ -45,7 +45,6 @@ fabric.properties
 
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.zip
@@ -57,9 +56,6 @@ fabric.properties
 **/.DS_Store
 .DS_Store
 .idea/inspectionProfiles/
-**/**.pdf
-**/**.docx
 **/**.class
 .idea/
-
 CSCI161-OOL4.iml
