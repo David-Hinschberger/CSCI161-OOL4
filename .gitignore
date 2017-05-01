@@ -59,3 +59,4 @@ fabric.properties
 **/**.class
 .idea/
 CSCI161-OOL4.iml
+~$*.xlsx
